@@ -1,0 +1,2 @@
+.app{display:flex;flex-direction:column;align-items:center;padding:30px 2%}.app h1{font-family:Amatic SC,cursive;font-size:50px;margin-bottom:20px}.todos-list .status{font-size:10px}.todos-list .item.completed{background:#efefef}@media only screen and (max-width:700px){.todos-list.list .item{display:flex;flex-direction:column}.todos-list .status{align-self:flex-end}}.attribution{margin-top:30px;font-size:11px}.attribution a{color:#000}
+/*# sourceMappingURL=main.ce4d77e8.chunk.css.map */
