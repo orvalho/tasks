@@ -5,15 +5,15 @@ This is an app which shows a list of tasks (data from JSONPlaceholder API).
 
 #### App
 
-![app](public/img/app.png)
+![app](public/tasks/img/app.png)
 
 #### App layout
 
-![layout](public/img/app-layout.png)
+![layout](public/tasks/img/app-layout.png)
 
 #### App structure
 
-![structure](public/img/app-structure.png)
+![structure](public/tasks/img/app-structure.png)
 
 #### Stack
 
