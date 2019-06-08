@@ -1,5 +1,11 @@
 import fetchTodosAndUsers from './fetchTodosAndUsers';
+import attemptSignIn from './attemptSignIn';
+import attemptSignOut from './attemptSignOut';
+import changeAuth from './changeAuth';
 
 export {
-  fetchTodosAndUsers
+  fetchTodosAndUsers,
+  attemptSignIn,
+  attemptSignOut,
+  changeAuth
 }

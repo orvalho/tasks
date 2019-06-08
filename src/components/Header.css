@@ -1,0 +1,7 @@
+.header.main {
+  width: 90%;
+  max-width: 650px;
+  display: flex;
+  justify-content: flex-end;
+  height: 40px;
+}

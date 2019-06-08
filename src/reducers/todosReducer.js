@@ -1,4 +1,4 @@
-import {FETCH_TODOS} from '../actionTypes';
+import {FETCH_TODOS} from '../actions/types';
 
 export default(state = [], action) => {
   switch (action.type) {

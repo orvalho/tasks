@@ -1,6 +1,6 @@
 ## Tasks app
 
-Practicing how to fetch data in a Redux app, write async action creators, use redux-thunk, avoid overfetching, write action creators in action creators.<br>
+Practicing how to fetch data in a Redux app, write async action creators, use redux-thunk, avoid overfetching, write action creators in action creators, handle authentication.<br>
 This is an app which shows a list of tasks (data from JSONPlaceholder API).
 
 #### App
@@ -15,6 +15,10 @@ This is an app which shows a list of tasks (data from JSONPlaceholder API).
 
 ![structure](public/tasks/img/app-structure.png)
 
+#### Auth flow
+
+![auth](public/tasks/img/auth-flow.png)
+
 #### Stack
 
 -   React
@@ -25,3 +29,5 @@ This is an app which shows a list of tasks (data from JSONPlaceholder API).
 -   JSONPlaceholder API
 -   Lodash
 -   Semantic UI
+-   Google API client library (auth2)
+-   Redux DevTools extension

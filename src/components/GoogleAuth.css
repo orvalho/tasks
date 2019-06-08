@@ -1,0 +1,9 @@
+.googleAuth .ui.button {
+  background: #EB5C54;
+  color: white;
+}
+
+.googleAuth .ui.button:hover {
+  background: #D6544D;
+  color: white;
+}
